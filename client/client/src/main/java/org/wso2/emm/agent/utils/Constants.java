@@ -482,6 +482,7 @@ public class Constants {
 		public static final String APPLIED_POLICY = "appliedPolicy";
 		public static final String IS_AGREED = "isAgreed";
 		public static final String NOTIFIER_TYPE = "notifierType";
+		public static final String IS_LOCATION_EVENT_PUBLICATION_ENABLED = "isLocationPublicationEnabled";
 	}
 
 	public final class AppRestriction {
